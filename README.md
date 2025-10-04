@@ -1,2 +1,2 @@
-# demo
-This is a new readme.md file. Editting done via visual code. 
+This is a compleatly new Readme.md file. 
+This is second commit. 
